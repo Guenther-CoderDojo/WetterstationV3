@@ -6,8 +6,8 @@
 #include <Adafruit_Sensor.h>
 
 // Replace with your network credentials
-const char* ssid = "HAPE_WLAN";
-const char* password = "h1lb3str4ss3";
+const char* ssid = "XXX";
+const char* password = "XXX";
 
 AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
